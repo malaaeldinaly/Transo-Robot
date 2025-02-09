@@ -1,4 +1,6 @@
-Transo-Robot is an intelligent, autonomous transport robot designed to navigate predefined paths using sensor-based guidance. Built for Raspberry Pi, it integrates real-time sensor data to detect lines and markers, optimizing movement for package delivery or industrial automation tasks. The project demonstrates low-level C programming, hardware integration, and efficient control algorithms, making it a strong foundation for embedded systems and robotics applications.
+Transo-Robot is an intelligent, autonomous transport robot designed to navigate predefined paths using sensor-based guidance. 
+Built for Raspberry Pi, it integrates real-time sensor data to detect lines and markers, optimizing movement for package delivery or industrial automation tasks. 
+The project demonstrates low-level C programming, hardware integration, and efficient control algorithms, making it a strong foundation for embedded systems and robotics applications.
 
 ## Key Features:
 
